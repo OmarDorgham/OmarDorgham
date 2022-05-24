@@ -50,7 +50,7 @@
 </code>
 
 
-| <a href="https://github.com/OmarDorgham/github-readme-stats"><br/><img align="center" src="https://github-readme-stats.vercel.app/api?username=OmarDorgham&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Omar's github stats" /></a> | <a href="https://github.com/OmarDorgham/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarDorgham&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/OmarDorgham"><br/><img align="center" src="https://github-readme-stats.vercel.app/api?username=OmarDorgham&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Omar's github stats" /></a> | <a href="https://github.com/OmarDorgham"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarDorgham&layout=compact&theme=buefy&hide_border=true" /></a> |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------- |
 
 
